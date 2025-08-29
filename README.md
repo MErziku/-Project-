@@ -42,11 +42,6 @@ Run the script
 
 View visualizations in the "visualizations" folder and console output
 
-Option 3: Viewing Pre-generated Outputs
-The "visualizations" folder contains all generated charts and graphs
-
-Review the insights from the analysis in the console output or notebook
-
 Insights and Reflections
 Key Insights from the Analysis
 Global Impact Patterns: COVID-19 affected countries worldwide, but with varying intensity. Developed nations generally reported higher case numbers, though this may reflect testing capacity differences.
